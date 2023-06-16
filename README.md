@@ -6,7 +6,7 @@ Pixel Creator is a 7x5 generator that generates pixel codes for LCD screens.
 
 ## Errors
 ### Windows Defender
-Windows Defender Smartscreen may detect it as dangerous since exe has no publisher. 
+Windows Defender Smartscreen may detect it as dangerous since exe has no publisher. You can simply click "More Info" and then "Run anyway" to run app.
 
 ![image](https://github.com/Jupkobe/Pixel_Creator/assets/84783072/44b8cc8e-ee18-462f-8233-81f1783b0e7b)
 
